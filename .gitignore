@@ -1,0 +1,30 @@
+# Common
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.code-workspace
+*.log
+logs/
+.cache/
+tmp/
+
+# MATLAB autosave and backup
+*.asv
+*.m~*
+*.autosave
+
+# MATLAB compiled files
+*.mex*
+*.mltbx
+
+# Simulink artifacts
+*_ert_rtw/
+slprj/
+sccprj/
+
+# Binary data files (keep only small samples if needed)
+*.mat
+
+# Build folder (ignored outputs)
+build/
